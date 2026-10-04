@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [Ejercicio 03 Sprint 2] - Preprocesamiento de imágenes (pipeline de 4 etapas)
+- **03.1 Escala de grises**: conversión BGR→GRAY de 100 imágenes originales → `port_log/data/interim/imgs/03_01_gray/{plates(60),completes(40)}`
+- **03.2 Ecualización de histograma**: contraste mejorado sobre grises → `03_02_equalized/{plates(60),completes(40)}`
+- **03.3 Suavizado (Blur Gaussiano)**: kernel 5x5 sigma=1.0 sobre ecualizadas → `03_03_blur/{plates(60),completes(40)}`
+- **03.4 Detección de bordes Canny**: thresholds 50-150 sobre blur → `03_04_canny/{plates(60),completes(40)}`
+- Cada etapa llama a `mostrar_muestra()` para visualizar 4 imágenes por grupo
+- `group_images.json` actualizado con paths: `path_gray`, `path_equalized`, `path_blurred`, `path_canny`
+- Commit: "Día 10: Ejercicio 03 Sprint 2 - Pipeline preprocesamiento (grises, ecualización, blur, Canny)"
+
 ## [Ejercicio 02 Sprint 2] - Análisis exploratorio de imágenes
 - Listadas 100 imágenes con nombre y tamaño en KB (rango ~2.8 KB a 80 KB)
 - Separadas en 2 grupos por nombre de archivo:
