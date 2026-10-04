@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [Ejercicio 02 Sprint 2] - Análisis exploratorio de imágenes
+- Listadas 100 imágenes con nombre y tamaño en KB (rango ~2.8 KB a 80 KB)
+- Separadas en 2 grupos por nombre de archivo:
+  - 'plates' (contiene 'plate'): 60 imágenes (recortes de matrícula)
+  - 'completes' (resto): 40 imágenes (contexto amplio)
+- Criterio: nombre de archivo contiene 'plate' → plates, resto → completes
+- Diccionario `group_images` guardado en `port_log/data/interim/group_images.json` con metadata: filename, width, height, area, path, matricula_imagen
+- Stats por grupo:
+  - Plates: resolución promedio 347x77, área promedio 26,951 px, tamaño promedio 7.02 kB
+  - Completes: resolución promedio 637x348, área promedio 221,634 px, tamaño promedio 32.63 kB
+- Función `mostrar_muestra(grupo, n=4)` implementada y ejecutada (grilla 2 columnas)
+- Commit: "Día 9: Ejercicio 02 Sprint 2 - Análisis exploratorio imágenes (listado, separación plates/completes, group_images.json, stats, visualización)"
+
 ## [Ejercicio 01 Sprint 2] - Setup Sprint 2
 - Clonado repositorio y creada rama `Sprint_2` desde `Sprint_1`
 - Configurado git user.email y user.name
