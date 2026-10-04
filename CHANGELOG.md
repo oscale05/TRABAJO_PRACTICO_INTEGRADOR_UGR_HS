@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [Ejercicio 01 Sprint 2] - Setup Sprint 2
+- Clonado repositorio y creada rama `Sprint_2` desde `Sprint_1`
+- Configurado git user.email y user.name
+- Descargado dataset de imágenes `port_log_images.zip` (1.76 MB) y descomprimido en `port_log/data/raw/imgs/port_log_images/`
+- Verificados archivos Sprint 1:
+  - Raw: 1500 registros
+  - Interim (limpio): 474 registros  
+  - Summary: 11 registros
+- Creado directorio `port_log/data/processed/`
+- Instaladas dependencias: easyocr, opencv-python-headless, pillow
+- Commit: "Día 8: Ejercicio 01 Sprint 2 - Setup repositorio, descarga imágenes y verificación archivos Sprint 1"
+
 ## [Ejercicio 07] - Conclusión final guardada en port_log/reports/conclusion.md
 - **Calidad dataset heredado**: 1.500 → 474 registros (68.4% descartados). Errores: horas inválidas 18.78%, fechas inválidas 4.64%, matrículas nulas 91, nulos críticos en velocidad/tonelaje/radar/estado, 88 outliers IQR, 772 sin infracción real.
 - **Patrones de infracción**: Turno Tarde 27.6% (mayor), Noche 22.4%, Madrugada 22.2%, Mañana 21.7%. Muelle-D 87 (18.4%), Muelle-B 82, Muelle-F 81. Tipo carga: CONTENEDORES 14.98%, TRIGO 14.77%, GRANOS 13.08%.
