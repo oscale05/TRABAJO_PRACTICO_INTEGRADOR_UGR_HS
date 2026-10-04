@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## [Ejercicio 04 Sprint 2] - OCR + Matching matrículas
+- EasyOCR inicializado una vez para procesar 100 imágenes
+- Matrículas extraídas de imágenes preprocesadas (Canny) y guardadas en `group_images.json` (`matricula_imagen`)
+- Matching con dataset `port_movements.csv` usando comparación alfanumérica posición por posición (ratio ≥ 75%)
+- **9 matches encontrados** (8 plates, 1 complete):
+  - MOV-00081: HAPAG-RIO ↔ HAPAGR10 (75.0%) - plates
+  - MOV-00136: CMA-LITORAL ↔ CHALITORAL35474S (90.0%) - plates
+  - MOV-00018: YANG-MING ↔ YANGMIN6 (87.5%) - plates
+  - MOV-00051: EVERGREEN-02 ↔ EVERGREENZ0 (81.82%) - plates
+  - MOV-00005: ONE-PLATA ↔ ONEPLATA (100.0%) - plates
+  - MOV-00031: MAERSK-LIMA ↔ MABRSKLIMA (90.0%) - plates
+  - MOV-00018: YANG-MING ↔ YANGMING (100.0%) - plates
+  - MOV-00013: ZIM-DELTA ↔ ZINDELT4 (75.0%) - plates
+  - MOV-00160: EVER-GLORY ↔ EVERGLCRY (88.89%) - completes
+- Dataset enriquecido guardado en `port_log/data/processed/port_movements_image.csv` con columnas: movimiento_id, imagen, matricula_imagen, ratio, grupo_imagen, matricula_original + datos del movimiento
+- Commit: "Día 11: Ejercicio 04 Sprint 2 - OCR extracción matrículas y matching (9 matches, ratio ≥ 75%)"
+
 ## [Ejercicio 03 Sprint 2] - Preprocesamiento de imágenes (pipeline de 4 etapas)
 - **03.1 Escala de grises**: conversión BGR→GRAY de 100 imágenes originales → `port_log/data/interim/imgs/03_01_gray/{plates(60),completes(40)}`
 - **03.2 Ecualización de histograma**: contraste mejorado sobre grises → `03_02_equalized/{plates(60),completes(40)}`

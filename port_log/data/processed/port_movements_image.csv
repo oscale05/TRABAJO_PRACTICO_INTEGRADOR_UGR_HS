@@ -1,0 +1,10 @@
+movimiento_id,imagen,matricula_imagen,ratio,grupo_imagen,matricula_original,buque_id,fecha_ingreso,hora_ingreso,muelle,tipo_carga,origen,velocidad_ingreso,velocidad_maxima_muelle,exceso_velocidad,exceso_velocidad_real,duracion_horas,estado_despacho
+MOV-00081,port_log/data/raw/imgs/port_log_images/0009_plate.jpg,HAPAGR10,75.0,plates,HAPAG-RIO,B-021,2022-01-17,03:59,MUELLE-C,HARINA,HAMBURG,14.2,12,1.599999999999998,2.2,,PENDIENTE
+MOV-00136,port_log/data/raw/imgs/port_log_images/0010_plate_patente.jpg,CHALITORAL35474S,90.0,plates,CMA-LITORAL,B-031,2024-10-24,04:57,MUELLE-C,HARINA,HAMBURG,15.7,12,3.099999999999998,3.6999999999999993,78.53333333333333,DESPACHADO
+MOV-00018,port_log/data/raw/imgs/port_log_images/0012_plate_patente.jpg,YANGMIN6,87.5,plates,YANG-MING,B-023,2021-11-19,21:43,MUELLE-D,TRIGO,HAMBURG,15.4,12,2.799999999999999,3.4000000000000004,50.65,PENDIENTE
+MOV-00051,port_log/data/raw/imgs/port_log_images/0018_plate_patente.jpg,EVERGREENZ0,81.82,plates,EVERGREEN-02,B-025,2020-07-31,18:47,MUELLE-F,GRANOS,SHANGHAI,16.0,15,0.25,1.0,44.06666666666667,DESPACHADO
+MOV-00005,port_log/data/raw/imgs/port_log_images/0022_plate_patente.jpg,ONEPLATA,100.0,plates,ONE-PLATA,B-017,2024-05-13,16:58,MUELLE-E,SOJA,VALPARAISO,16.2,15,0.4499999999999993,1.1999999999999993,-14.7,PENDIENTE
+MOV-00031,port_log/data/raw/imgs/port_log_images/0034_plate_patente.jpg,MABRSKLIMA,90.0,plates,MAERSK-LIMA,B-028,2022-01-04,11:27,MUELLE-D,MAIZ,VALPARAISO,13.5,12,0.8999999999999986,1.5,13.9,DESPACHADO
+MOV-00018,port_log/data/raw/imgs/port_log_images/0036_plate_patente.jpg,YANGMING,100.0,plates,YANG-MING,B-023,2021-11-19,21:43,MUELLE-D,TRIGO,HAMBURG,15.4,12,2.799999999999999,3.4000000000000004,50.65,PENDIENTE
+MOV-00013,port_log/data/raw/imgs/port_log_images/0059_plate_patente.jpg,ZINDELT4,75.0,plates,ZIM-DELTA,B-015,2021-12-20,20:32,MUELLE-F,TRIGO,ROTTERDAM,13.1,12,0.4999999999999982,1.0999999999999996,57.18333333333333,EN_REVISION
+MOV-00160,port_log/data/raw/imgs/port_log_images/0034_complete_patente.jpg,EVERGLCRY,88.89,completes,EVER-GLORY,B-007,2020-01-27,06:41,MUELLE-F,MINERALES,VALPARAISO,15.0,10,4.5,5.0,70.41666666666667,DESPACHADO
