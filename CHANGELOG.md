@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [Fix Sprint 2] - Corrección visualización imágenes procesadas en preprocesamiento
+- Función `mostrar_muestra` actualizada con parámetro `key_path` para seleccionar qué ruta de imagen mostrar (`path`, `path_gray`, `path_equalized`, `path_blurred`, `path_canny`)
+- Llamadas en 4 etapas de preprocesamiento actualizadas para visualizar imágenes procesadas (no originales):
+  - 03.1 Grises: `key_path='path_gray'`
+  - 03.2 Ecualización: `key_path='path_equalized'`
+  - 03.3 Blur: `key_path='path_blurred'`
+  - 03.4 Canny: `key_path='path_canny'`
+- Eliminado slice `[:4]` en llamadas para permitir selección aleatoria de 4 imágenes diferentes por etapa
+- Commit: "Día 14: Fix visualización - mostrar imágenes procesadas en cada etapa de preprocesamiento"
+
 ## [Ejercicio 06 Sprint 2] - Conclusión final Sprint 2
 - **Validación visual**: Solo 8 de 474 infracciones (1.69%) validadas visualmente con matching exitoso
 - **Mejor grupo OCR**: `plates` (13.33% match rate) vs `completes` (2.50%) - 5.3x más efectivo
