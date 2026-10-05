@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [Ejercicio 05 Sprint 2] - Métricas finales del dataset con imágenes
+- Infracciones sin imagen asociada: **466** (de 474 total)
+- Infracciones con imagen asociada: **8**
+- Imágenes sin match en el dataset: **91** (de 100 total)
+- Ratio promedio de coincidencia: **87.58%**
+- Grupo con mayor tasa de match: **plates** con **13.33%** (8/60) vs completes **2.50%** (1/40)
+- Infracciones PENDIENTES sin evidencia visual: **103**
+- Commit: "Día 12: Ejercicio 05 Sprint 2 - Métricas finales (466 sin imagen, 8 con imagen, ratio 87.58%, plates 13.33%)"
+
 ## [Ejercicio 04 Sprint 2] - OCR + Matching matrículas
 - EasyOCR inicializado una vez para procesar 100 imágenes
 - Matrículas extraídas de imágenes preprocesadas (Canny) y guardadas en `group_images.json` (`matricula_imagen`)
