@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [Ejercicio 06 Sprint 2] - Conclusión final Sprint 2
+- **Validación visual**: Solo 8 de 474 infracciones (1.69%) validadas visualmente con matching exitoso
+- **Mejor grupo OCR**: `plates` (13.33% match rate) vs `completes` (2.50%) - 5.3x más efectivo
+- **Condiciones críticas**: Nocturnas, distancia excesiva, motion blur, oclusiones, recortes imperfectos
+- **Mejoras propuestas**: Iluminación IR + trigger proximidad, dual-cámara, validación en borde, ensemble OCR, matching fuzzy, fine-tuning sintético
+- Conclusión guardada en `port_log/reports/conclusion_sprint2.md`
+- Commit: "Día 13: Ejercicio 06 Sprint 2 - Conclusión (1.69% validación, plates 5.3x mejor, condiciones críticas, mejoras HW/SW)"
+
 ## [Ejercicio 05 Sprint 2] - Métricas finales del dataset con imágenes
 - Infracciones sin imagen asociada: **466** (de 474 total)
 - Infracciones con imagen asociada: **8**
@@ -7,7 +15,7 @@
 - Ratio promedio de coincidencia: **87.58%**
 - Grupo con mayor tasa de match: **plates** con **13.33%** (8/60) vs completes **2.50%** (1/40)
 - Infracciones PENDIENTES sin evidencia visual: **103**
-- Commit: "Día 12: Ejercicio 05 Sprint 2 - Métricas finales (466 sin imagen, 8 con imagen, ratio 87.58%, plates 13.33%)"
+- Commit: "Día 12: Ejercicio 05 Sprint 2 - Métricas finales (466 sin imagen, 8 con imagen, ratio 87.58%, plates 13.33%, PENDIENTE 103)"
 
 ## [Ejercicio 04 Sprint 2] - OCR + Matching matrículas
 - EasyOCR inicializado una vez para procesar 100 imágenes
