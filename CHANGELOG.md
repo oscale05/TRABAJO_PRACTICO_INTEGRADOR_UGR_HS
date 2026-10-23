@@ -1,5 +1,10 @@
 # CHANGELOG
 
+[Ejercicio 04]
+- Extracción de matrículas con EasyOCR (`extraer_matricula`) sobre las imágenes.
+- Matching alfanumérico contra `port_movements.csv` con umbral de 75% de coincidencia posicional.
+- Dataset final en `port_log/data/processed/port_movements_image.csv`.
+
 [Ejercicio 03]
 - Conversión a escala de grises en `port_log/data/interim/imgs/03_01_gray`.
 - Ecualización de histograma en `port_log/data/interim/imgs/03_02_equalized`.
