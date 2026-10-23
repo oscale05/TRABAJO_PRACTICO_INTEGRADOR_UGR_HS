@@ -1,5 +1,8 @@
 # CHANGELOG
 
+[Ejercicio 06]
+- Conclusión sobre datos tabulares vs imágenes en `port_log/reports/conclusion_sprint2.md`.
+
 [Ejercicio 05]
 - Infracciones sin y con imagen asociada.
 - Imágenes sin match en el dataset.
