@@ -1,5 +1,11 @@
 # CHANGELOG
 
+[Ejercicio 03]
+- Conversión a escala de grises en `port_log/data/interim/imgs/03_01_gray`.
+- Ecualización de histograma en `port_log/data/interim/imgs/03_02_equalized`.
+- Suavizado gaussiano en `port_log/data/interim/imgs/03_03_blur`.
+- Detección de bordes Canny (thresholds fijos 50/150) en `port_log/data/interim/imgs/03_04_canny`.
+
 [Ejercicio 02]
 - Listado de imágenes con nombre y tamaño en KB.
 - Separación de imágenes en grupos `plates` y `completes` por nombre de archivo.
