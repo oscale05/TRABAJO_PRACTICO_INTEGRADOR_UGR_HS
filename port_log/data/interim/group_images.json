@@ -6,11 +6,7 @@
       "height": 72,
       "area": 22896,
       "path": "port_log/data/raw/imgs/port_log_images/0001_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0001_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0001_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0001_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0001_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0002_plate.jpg",
@@ -18,11 +14,7 @@
       "height": 84,
       "area": 28980,
       "path": "port_log/data/raw/imgs/port_log_images/0002_plate.jpg",
-      "matricula_imagen": "ISERVA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0002_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0002_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0002_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0002_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0003_plate_patente.jpg",
@@ -30,11 +22,7 @@
       "height": 74,
       "area": 27010,
       "path": "port_log/data/raw/imgs/port_log_images/0003_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0003_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0003_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0003_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0003_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0004_plate.jpg",
@@ -42,11 +30,7 @@
       "height": 92,
       "area": 34868,
       "path": "port_log/data/raw/imgs/port_log_images/0004_plate.jpg",
-      "matricula_imagen": "KRSIBN",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0004_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0004_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0004_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0004_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0005_plate_patente.jpg",
@@ -54,11 +38,7 @@
       "height": 74,
       "area": 25900,
       "path": "port_log/data/raw/imgs/port_log_images/0005_plate_patente.jpg",
-      "matricula_imagen": "2E4",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0005_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0005_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0005_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0005_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0006_plate_patente.jpg",
@@ -66,11 +46,7 @@
       "height": 79,
       "area": 25517,
       "path": "port_log/data/raw/imgs/port_log_images/0006_plate_patente.jpg",
-      "matricula_imagen": "PILOSWNTZ",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0006_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0006_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0006_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0006_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0007_plate_patente.jpg",
@@ -78,11 +54,7 @@
       "height": 66,
       "area": 20262,
       "path": "port_log/data/raw/imgs/port_log_images/0007_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0007_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0007_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0007_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0007_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0008_plate_patente.jpg",
@@ -90,11 +62,7 @@
       "height": 67,
       "area": 19028,
       "path": "port_log/data/raw/imgs/port_log_images/0008_plate_patente.jpg",
-      "matricula_imagen": "0VZEN",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0008_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0008_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0008_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0008_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0009_plate.jpg",
@@ -102,11 +70,7 @@
       "height": 79,
       "area": 27413,
       "path": "port_log/data/raw/imgs/port_log_images/0009_plate.jpg",
-      "matricula_imagen": "HAPAGR10",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0009_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0009_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0009_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0009_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0010_plate_patente.jpg",
@@ -114,11 +78,7 @@
       "height": 92,
       "area": 39744,
       "path": "port_log/data/raw/imgs/port_log_images/0010_plate_patente.jpg",
-      "matricula_imagen": "CHALITORAL35474S",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0010_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0010_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0010_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0010_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0011_plate.jpg",
@@ -126,11 +86,7 @@
       "height": 93,
       "area": 30225,
       "path": "port_log/data/raw/imgs/port_log_images/0011_plate.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0011_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0011_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0011_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0011_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0012_plate_patente.jpg",
@@ -138,11 +94,7 @@
       "height": 91,
       "area": 31031,
       "path": "port_log/data/raw/imgs/port_log_images/0012_plate_patente.jpg",
-      "matricula_imagen": "YANGMIN6",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0012_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0012_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0012_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0012_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0013_plate.jpg",
@@ -150,11 +102,7 @@
       "height": 71,
       "area": 19383,
       "path": "port_log/data/raw/imgs/port_log_images/0013_plate.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0013_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0013_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0013_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0013_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0014_plate_patente.jpg",
@@ -162,11 +110,7 @@
       "height": 59,
       "area": 22597,
       "path": "port_log/data/raw/imgs/port_log_images/0014_plate_patente.jpg",
-      "matricula_imagen": "ES",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0014_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0014_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0014_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0014_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0015_plate_patente.jpg",
@@ -174,11 +118,7 @@
       "height": 57,
       "area": 16872,
       "path": "port_log/data/raw/imgs/port_log_images/0015_plate_patente.jpg",
-      "matricula_imagen": "IJAORALLIU",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0015_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0015_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0015_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0015_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0016_plate.jpg",
@@ -186,11 +126,7 @@
       "height": 69,
       "area": 25047,
       "path": "port_log/data/raw/imgs/port_log_images/0016_plate.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0016_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0016_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0016_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0016_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0017_plate_patente.jpg",
@@ -198,11 +134,7 @@
       "height": 74,
       "area": 21830,
       "path": "port_log/data/raw/imgs/port_log_images/0017_plate_patente.jpg",
-      "matricula_imagen": "CPA63310",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0017_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0017_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0017_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0017_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0018_plate_patente.jpg",
@@ -210,11 +142,7 @@
       "height": 79,
       "area": 29546,
       "path": "port_log/data/raw/imgs/port_log_images/0018_plate_patente.jpg",
-      "matricula_imagen": "EVERGREENZ0",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0018_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0018_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0018_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0018_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0019_plate_patente.jpg",
@@ -222,11 +150,7 @@
       "height": 89,
       "area": 27946,
       "path": "port_log/data/raw/imgs/port_log_images/0019_plate_patente.jpg",
-      "matricula_imagen": "TAA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0019_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0019_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0019_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0019_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0020_plate_patente.jpg",
@@ -234,11 +158,7 @@
       "height": 84,
       "area": 31332,
       "path": "port_log/data/raw/imgs/port_log_images/0020_plate_patente.jpg",
-      "matricula_imagen": "53ERRAA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0020_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0020_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0020_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0020_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0021_plate_patente.jpg",
@@ -246,11 +166,7 @@
       "height": 84,
       "area": 26544,
       "path": "port_log/data/raw/imgs/port_log_images/0021_plate_patente.jpg",
-      "matricula_imagen": "PIEOSAWLA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0021_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0021_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0021_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0021_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0022_plate_patente.jpg",
@@ -258,11 +174,7 @@
       "height": 66,
       "area": 20460,
       "path": "port_log/data/raw/imgs/port_log_images/0022_plate_patente.jpg",
-      "matricula_imagen": "ONEPLATA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0022_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0022_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0022_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0022_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0023_plate_patente.jpg",
@@ -270,11 +182,7 @@
       "height": 75,
       "area": 29700,
       "path": "port_log/data/raw/imgs/port_log_images/0023_plate_patente.jpg",
-      "matricula_imagen": "TAERSKARAS",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0023_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0023_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0023_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0023_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0024_plate.jpg",
@@ -282,11 +190,7 @@
       "height": 71,
       "area": 34009,
       "path": "port_log/data/raw/imgs/port_log_images/0024_plate.jpg",
-      "matricula_imagen": "UAERSKPALERS",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0024_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0024_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0024_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0024_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0025_plate_patente.jpg",
@@ -294,11 +198,7 @@
       "height": 71,
       "area": 30104,
       "path": "port_log/data/raw/imgs/port_log_images/0025_plate_patente.jpg",
-      "matricula_imagen": "TABR57PARBAS",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0025_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0025_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0025_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0025_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0026_plate_patente.jpg",
@@ -306,11 +206,7 @@
       "height": 86,
       "area": 29756,
       "path": "port_log/data/raw/imgs/port_log_images/0026_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0026_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0026_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0026_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0026_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0027_plate_patente.jpg",
@@ -318,11 +214,7 @@
       "height": 71,
       "area": 21371,
       "path": "port_log/data/raw/imgs/port_log_images/0027_plate_patente.jpg",
-      "matricula_imagen": "MSGEMOVA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0027_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0027_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0027_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0027_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0028_plate_patente.jpg",
@@ -330,11 +222,7 @@
       "height": 59,
       "area": 16579,
       "path": "port_log/data/raw/imgs/port_log_images/0028_plate_patente.jpg",
-      "matricula_imagen": "DQSPARAA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0028_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0028_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0028_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0028_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0029_plate_patente.jpg",
@@ -342,11 +230,7 @@
       "height": 76,
       "area": 28500,
       "path": "port_log/data/raw/imgs/port_log_images/0029_plate_patente.jpg",
-      "matricula_imagen": "8HA3N252000",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0029_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0029_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0029_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0029_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0030_plate_patente.jpg",
@@ -354,11 +238,7 @@
       "height": 80,
       "area": 38080,
       "path": "port_log/data/raw/imgs/port_log_images/0030_plate_patente.jpg",
-      "matricula_imagen": "MAERSKSDALEAS",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0030_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0030_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0030_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0030_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0031_plate_patente.jpg",
@@ -366,11 +246,7 @@
       "height": 68,
       "area": 20808,
       "path": "port_log/data/raw/imgs/port_log_images/0031_plate_patente.jpg",
-      "matricula_imagen": "GBAERZ",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0031_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0031_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0031_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0031_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0032_plate_patente.jpg",
@@ -378,11 +254,7 @@
       "height": 82,
       "area": 27142,
       "path": "port_log/data/raw/imgs/port_log_images/0032_plate_patente.jpg",
-      "matricula_imagen": "L1308584",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0032_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0032_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0032_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0032_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0033_plate_patente.jpg",
@@ -390,11 +262,7 @@
       "height": 58,
       "area": 20010,
       "path": "port_log/data/raw/imgs/port_log_images/0033_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0033_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0033_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0033_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0033_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0034_plate_patente.jpg",
@@ -402,11 +270,7 @@
       "height": 80,
       "area": 29120,
       "path": "port_log/data/raw/imgs/port_log_images/0034_plate_patente.jpg",
-      "matricula_imagen": "MABRSKLIMA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0034_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0034_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0034_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0034_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0035_plate_patente.jpg",
@@ -414,11 +278,7 @@
       "height": 88,
       "area": 27896,
       "path": "port_log/data/raw/imgs/port_log_images/0035_plate_patente.jpg",
-      "matricula_imagen": "HAPA6ERZO",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0035_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0035_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0035_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0035_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0036_plate_patente.jpg",
@@ -426,11 +286,7 @@
       "height": 70,
       "area": 19810,
       "path": "port_log/data/raw/imgs/port_log_images/0036_plate_patente.jpg",
-      "matricula_imagen": "YANGMING",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0036_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0036_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0036_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0036_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0037_plate_patente.jpg",
@@ -438,11 +294,7 @@
       "height": 80,
       "area": 28400,
       "path": "port_log/data/raw/imgs/port_log_images/0037_plate_patente.jpg",
-      "matricula_imagen": "72C7821",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0037_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0037_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0037_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0037_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0038_plate_patente.jpg",
@@ -450,11 +302,7 @@
       "height": 74,
       "area": 26566,
       "path": "port_log/data/raw/imgs/port_log_images/0038_plate_patente.jpg",
-      "matricula_imagen": "CNERSR4",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0038_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0038_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0038_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0038_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0039_plate_patente.jpg",
@@ -462,11 +310,7 @@
       "height": 80,
       "area": 35200,
       "path": "port_log/data/raw/imgs/port_log_images/0039_plate_patente.jpg",
-      "matricula_imagen": "MAROSARACO",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0039_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0039_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0039_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0039_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0040_plate_patente.jpg",
@@ -474,11 +318,7 @@
       "height": 92,
       "area": 33304,
       "path": "port_log/data/raw/imgs/port_log_images/0040_plate_patente.jpg",
-      "matricula_imagen": "S603",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0040_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0040_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0040_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0040_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0041_plate.jpg",
@@ -486,11 +326,7 @@
       "height": 90,
       "area": 29880,
       "path": "port_log/data/raw/imgs/port_log_images/0041_plate.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0041_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0041_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0041_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0041_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0042_plate.jpg",
@@ -498,11 +334,7 @@
       "height": 92,
       "area": 36800,
       "path": "port_log/data/raw/imgs/port_log_images/0042_plate.jpg",
-      "matricula_imagen": "CO5004STAR",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0042_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0042_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0042_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0042_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0043_plate_patente.jpg",
@@ -510,11 +342,7 @@
       "height": 79,
       "area": 27413,
       "path": "port_log/data/raw/imgs/port_log_images/0043_plate_patente.jpg",
-      "matricula_imagen": "IA2A6SV3",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0043_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0043_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0043_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0043_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0044_plate_patente.jpg",
@@ -522,11 +350,7 @@
       "height": 82,
       "area": 29438,
       "path": "port_log/data/raw/imgs/port_log_images/0044_plate_patente.jpg",
-      "matricula_imagen": "VEOY",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0044_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0044_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0044_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0044_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0045_plate_patente.jpg",
@@ -534,11 +358,7 @@
       "height": 83,
       "area": 25813,
       "path": "port_log/data/raw/imgs/port_log_images/0045_plate_patente.jpg",
-      "matricula_imagen": "YANGLIING",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0045_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0045_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0045_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0045_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0046_plate_patente.jpg",
@@ -546,11 +366,7 @@
       "height": 53,
       "area": 15476,
       "path": "port_log/data/raw/imgs/port_log_images/0046_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0046_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0046_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0046_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0046_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0047_plate.jpg",
@@ -558,11 +374,7 @@
       "height": 91,
       "area": 26936,
       "path": "port_log/data/raw/imgs/port_log_images/0047_plate.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0047_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0047_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0047_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0047_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0048_plate.jpg",
@@ -570,11 +382,7 @@
       "height": 85,
       "area": 38165,
       "path": "port_log/data/raw/imgs/port_log_images/0048_plate.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0048_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0048_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0048_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0048_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0049_plate_patente.jpg",
@@ -582,11 +390,7 @@
       "height": 74,
       "area": 24346,
       "path": "port_log/data/raw/imgs/port_log_images/0049_plate_patente.jpg",
-      "matricula_imagen": "TASLLI",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0049_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0049_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0049_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0049_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0050_plate.jpg",
@@ -594,11 +398,7 @@
       "height": 78,
       "area": 21216,
       "path": "port_log/data/raw/imgs/port_log_images/0050_plate.jpg",
-      "matricula_imagen": "HARASR2E",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0050_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0050_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0050_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0050_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0051_plate_patente.jpg",
@@ -606,11 +406,7 @@
       "height": 91,
       "area": 31577,
       "path": "port_log/data/raw/imgs/port_log_images/0051_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0051_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0051_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0051_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0051_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0052_plate_patente.jpg",
@@ -618,11 +414,7 @@
       "height": 84,
       "area": 28224,
       "path": "port_log/data/raw/imgs/port_log_images/0052_plate_patente.jpg",
-      "matricula_imagen": "YANGCUIN6",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0052_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0052_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0052_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0052_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0053_plate_patente.jpg",
@@ -630,11 +422,7 @@
       "height": 80,
       "area": 26000,
       "path": "port_log/data/raw/imgs/port_log_images/0053_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0053_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0053_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0053_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0053_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0054_plate_patente.jpg",
@@ -642,11 +430,7 @@
       "height": 81,
       "area": 37665,
       "path": "port_log/data/raw/imgs/port_log_images/0054_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0054_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0054_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0054_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0054_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0055_plate_patente.jpg",
@@ -654,11 +438,7 @@
       "height": 72,
       "area": 20088,
       "path": "port_log/data/raw/imgs/port_log_images/0055_plate_patente.jpg",
-      "matricula_imagen": "NERLRNA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0055_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0055_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0055_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0055_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0056_plate.jpg",
@@ -666,11 +446,7 @@
       "height": 57,
       "area": 18981,
       "path": "port_log/data/raw/imgs/port_log_images/0056_plate.jpg",
-      "matricula_imagen": "VJERGREEIE",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0056_plate.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0056_plate.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0056_plate.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0056_plate.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0057_plate_patente.jpg",
@@ -678,11 +454,7 @@
       "height": 96,
       "area": 38784,
       "path": "port_log/data/raw/imgs/port_log_images/0057_plate_patente.jpg",
-      "matricula_imagen": "0SCOUIGRE",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0057_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0057_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0057_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0057_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0058_plate_patente.jpg",
@@ -690,11 +462,7 @@
       "height": 66,
       "area": 23694,
       "path": "port_log/data/raw/imgs/port_log_images/0058_plate_patente.jpg",
-      "matricula_imagen": "SAR6",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0058_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0058_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0058_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0058_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0059_plate_patente.jpg",
@@ -702,11 +470,7 @@
       "height": 77,
       "area": 26334,
       "path": "port_log/data/raw/imgs/port_log_images/0059_plate_patente.jpg",
-      "matricula_imagen": "ZINDELT4",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0059_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0059_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0059_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0059_plate_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0060_plate_patente.jpg",
@@ -714,11 +478,7 @@
       "height": 63,
       "area": 19467,
       "path": "port_log/data/raw/imgs/port_log_images/0060_plate_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/plates/0060_plate_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/plates/0060_plate_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/plates/0060_plate_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/plates/0060_plate_patente.jpg"
+      "matricula_imagen": ""
     }
   ],
   "completes": [
@@ -728,11 +488,7 @@
       "height": 314,
       "area": 206298,
       "path": "port_log/data/raw/imgs/port_log_images/0001_complete_patente.jpg",
-      "matricula_imagen": "XECST",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0001_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0001_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0001_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0001_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0002_complete_patente.jpg",
@@ -740,11 +496,7 @@
       "height": 303,
       "area": 190890,
       "path": "port_log/data/raw/imgs/port_log_images/0002_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0002_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0002_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0002_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0002_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0003_complete_patente.jpg",
@@ -752,11 +504,7 @@
       "height": 301,
       "area": 210098,
       "path": "port_log/data/raw/imgs/port_log_images/0003_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0003_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0003_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0003_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0003_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0004_complete_patente.jpg",
@@ -764,11 +512,7 @@
       "height": 331,
       "area": 186684,
       "path": "port_log/data/raw/imgs/port_log_images/0004_complete_patente.jpg",
-      "matricula_imagen": "XU",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0004_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0004_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0004_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0004_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0005_complete_patente.jpg",
@@ -776,11 +520,7 @@
       "height": 398,
       "area": 248352,
       "path": "port_log/data/raw/imgs/port_log_images/0005_complete_patente.jpg",
-      "matricula_imagen": "ZQELIA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0005_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0005_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0005_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0005_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0006_complete_patente.jpg",
@@ -788,11 +528,7 @@
       "height": 328,
       "area": 213856,
       "path": "port_log/data/raw/imgs/port_log_images/0006_complete_patente.jpg",
-      "matricula_imagen": "BVERRGREEN",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0006_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0006_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0006_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0006_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0007_complete_patente.jpg",
@@ -800,11 +536,7 @@
       "height": 335,
       "area": 224115,
       "path": "port_log/data/raw/imgs/port_log_images/0007_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0007_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0007_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0007_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0007_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0008_complete_patente.jpg",
@@ -812,11 +544,7 @@
       "height": 418,
       "area": 256234,
       "path": "port_log/data/raw/imgs/port_log_images/0008_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0008_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0008_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0008_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0008_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0009_complete.jpg",
@@ -824,11 +552,7 @@
       "height": 358,
       "area": 243082,
       "path": "port_log/data/raw/imgs/port_log_images/0009_complete.jpg",
-      "matricula_imagen": "SUERQLC3",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0009_complete.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0009_complete.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0009_complete.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0009_complete.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0010_complete_patente.jpg",
@@ -836,11 +560,7 @@
       "height": 342,
       "area": 239058,
       "path": "port_log/data/raw/imgs/port_log_images/0010_complete_patente.jpg",
-      "matricula_imagen": "GOSGOSTOR",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0010_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0010_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0010_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0010_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0011_complete.jpg",
@@ -848,11 +568,7 @@
       "height": 367,
       "area": 238917,
       "path": "port_log/data/raw/imgs/port_log_images/0011_complete.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0011_complete.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0011_complete.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0011_complete.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0011_complete.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0012_complete_patente.jpg",
@@ -860,11 +576,7 @@
       "height": 409,
       "area": 272394,
       "path": "port_log/data/raw/imgs/port_log_images/0012_complete_patente.jpg",
-      "matricula_imagen": "PZL5NTA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0012_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0012_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0012_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0012_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0013_complete_patente.jpg",
@@ -872,11 +584,7 @@
       "height": 361,
       "area": 213712,
       "path": "port_log/data/raw/imgs/port_log_images/0013_complete_patente.jpg",
-      "matricula_imagen": "ER2",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0013_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0013_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0013_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0013_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0014_complete_patente.jpg",
@@ -884,11 +592,7 @@
       "height": 329,
       "area": 195755,
       "path": "port_log/data/raw/imgs/port_log_images/0014_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0014_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0014_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0014_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0014_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0015_complete_patente.jpg",
@@ -896,11 +600,7 @@
       "height": 358,
       "area": 204418,
       "path": "port_log/data/raw/imgs/port_log_images/0015_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0015_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0015_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0015_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0015_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0016_complete_patente.jpg",
@@ -908,11 +608,7 @@
       "height": 371,
       "area": 245231,
       "path": "port_log/data/raw/imgs/port_log_images/0016_complete_patente.jpg",
-      "matricula_imagen": "WVERGGLORY",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0016_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0016_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0016_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0016_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0017_complete_patente.jpg",
@@ -920,11 +616,7 @@
       "height": 301,
       "area": 207389,
       "path": "port_log/data/raw/imgs/port_log_images/0017_complete_patente.jpg",
-      "matricula_imagen": "GMRO5ARTO",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0017_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0017_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0017_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0017_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0018_complete_patente.jpg",
@@ -932,11 +624,7 @@
       "height": 393,
       "area": 225582,
       "path": "port_log/data/raw/imgs/port_log_images/0018_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0018_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0018_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0018_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0018_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0019_complete_patente.jpg",
@@ -944,11 +632,7 @@
       "height": 389,
       "area": 219007,
       "path": "port_log/data/raw/imgs/port_log_images/0019_complete_patente.jpg",
-      "matricula_imagen": "7U",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0019_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0019_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0019_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0019_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0020_complete_patente.jpg",
@@ -956,11 +640,7 @@
       "height": 372,
       "area": 222456,
       "path": "port_log/data/raw/imgs/port_log_images/0020_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0020_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0020_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0020_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0020_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0021_complete_patente.jpg",
@@ -968,11 +648,7 @@
       "height": 332,
       "area": 197872,
       "path": "port_log/data/raw/imgs/port_log_images/0021_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0021_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0021_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0021_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0021_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0022_complete_patente.jpg",
@@ -980,11 +656,7 @@
       "height": 364,
       "area": 215488,
       "path": "port_log/data/raw/imgs/port_log_images/0022_complete_patente.jpg",
-      "matricula_imagen": "243QKN",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0022_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0022_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0022_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0022_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0023_complete_patente.jpg",
@@ -992,11 +664,7 @@
       "height": 304,
       "area": 217968,
       "path": "port_log/data/raw/imgs/port_log_images/0023_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0023_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0023_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0023_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0023_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0024_complete_patente.jpg",
@@ -1004,11 +672,7 @@
       "height": 314,
       "area": 220742,
       "path": "port_log/data/raw/imgs/port_log_images/0024_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0024_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0024_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0024_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0024_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0025_complete_patente.jpg",
@@ -1016,11 +680,7 @@
       "height": 323,
       "area": 209304,
       "path": "port_log/data/raw/imgs/port_log_images/0025_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0025_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0025_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0025_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0025_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0026_complete_patente.jpg",
@@ -1028,11 +688,7 @@
       "height": 330,
       "area": 209880,
       "path": "port_log/data/raw/imgs/port_log_images/0026_complete_patente.jpg",
-      "matricula_imagen": "PRLQE5UY",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0026_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0026_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0026_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0026_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0027_complete_patente.jpg",
@@ -1040,11 +696,7 @@
       "height": 330,
       "area": 203280,
       "path": "port_log/data/raw/imgs/port_log_images/0027_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0027_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0027_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0027_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0027_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0028_complete_patente.jpg",
@@ -1052,11 +704,7 @@
       "height": 308,
       "area": 184184,
       "path": "port_log/data/raw/imgs/port_log_images/0028_complete_patente.jpg",
-      "matricula_imagen": "GAGQVPE",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0028_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0028_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0028_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0028_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0029_complete_patente.jpg",
@@ -1064,11 +712,7 @@
       "height": 322,
       "area": 231840,
       "path": "port_log/data/raw/imgs/port_log_images/0029_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0029_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0029_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0029_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0029_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0030_complete_patente.jpg",
@@ -1076,11 +720,7 @@
       "height": 373,
       "area": 245434,
       "path": "port_log/data/raw/imgs/port_log_images/0030_complete_patente.jpg",
-      "matricula_imagen": "EGLQRY",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0030_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0030_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0030_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0030_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0031_complete_patente.jpg",
@@ -1088,11 +728,7 @@
       "height": 400,
       "area": 264800,
       "path": "port_log/data/raw/imgs/port_log_images/0031_complete_patente.jpg",
-      "matricula_imagen": "SNA",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0031_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0031_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0031_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0031_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0032_complete_patente.jpg",
@@ -1100,11 +736,7 @@
       "height": 348,
       "area": 204276,
       "path": "port_log/data/raw/imgs/port_log_images/0032_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0032_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0032_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0032_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0032_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0033_complete.jpg",
@@ -1112,11 +744,7 @@
       "height": 349,
       "area": 233830,
       "path": "port_log/data/raw/imgs/port_log_images/0033_complete.jpg",
-      "matricula_imagen": "CORCQET2GRE",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0033_complete.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0033_complete.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0033_complete.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0033_complete.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0034_complete_patente.jpg",
@@ -1124,11 +752,7 @@
       "height": 324,
       "area": 229716,
       "path": "port_log/data/raw/imgs/port_log_images/0034_complete_patente.jpg",
-      "matricula_imagen": "EVERGLCRY",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0034_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0034_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0034_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0034_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0035_complete_patente.jpg",
@@ -1136,11 +760,7 @@
       "height": 359,
       "area": 229401,
       "path": "port_log/data/raw/imgs/port_log_images/0035_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0035_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0035_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0035_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0035_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0036_complete_patente.jpg",
@@ -1148,11 +768,7 @@
       "height": 326,
       "area": 196904,
       "path": "port_log/data/raw/imgs/port_log_images/0036_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0036_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0036_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0036_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0036_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0037_complete_patente.jpg",
@@ -1160,11 +776,7 @@
       "height": 336,
       "area": 222096,
       "path": "port_log/data/raw/imgs/port_log_images/0037_complete_patente.jpg",
-      "matricula_imagen": "3",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0037_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0037_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0037_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0037_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0038_complete.jpg",
@@ -1172,11 +784,7 @@
       "height": 406,
       "area": 237916,
       "path": "port_log/data/raw/imgs/port_log_images/0038_complete.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0038_complete.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0038_complete.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0038_complete.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0038_complete.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0039_complete_patente.jpg",
@@ -1184,11 +792,7 @@
       "height": 325,
       "area": 210600,
       "path": "port_log/data/raw/imgs/port_log_images/0039_complete_patente.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0039_complete_patente.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0039_complete_patente.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0039_complete_patente.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0039_complete_patente.jpg"
+      "matricula_imagen": ""
     },
     {
       "filename": "0040_complete.jpg",
@@ -1196,11 +800,7 @@
       "height": 404,
       "area": 236340,
       "path": "port_log/data/raw/imgs/port_log_images/0040_complete.jpg",
-      "matricula_imagen": "",
-      "path_gray": "port_log/data/interim/imgs/03_01_gray/completes/0040_complete.jpg",
-      "path_equalized": "port_log/data/interim/imgs/03_02_equalized/completes/0040_complete.jpg",
-      "path_blurred": "port_log/data/interim/imgs/03_03_blur/completes/0040_complete.jpg",
-      "path_canny": "port_log/data/interim/imgs/03_04_canny/completes/0040_complete.jpg"
+      "matricula_imagen": ""
     }
   ]
 }

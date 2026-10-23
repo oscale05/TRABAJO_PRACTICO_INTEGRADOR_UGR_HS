@@ -1,5 +1,12 @@
 # CHANGELOG
 
+[Ejercicio 02]
+- Listado de imágenes con nombre y tamaño en KB.
+- Separación de imágenes en grupos `plates` y `completes` por nombre de archivo.
+- Diccionario `group_images` con metadatos (OpenCV) guardado en `port_log/data/interim/group_images.json`.
+- Estadísticas por grupo: resolución, área y tamaño promedio.
+- Función `mostrar_muestra` (grilla de 2 columnas) para visualizar imágenes de cada grupo.
+
 [Ejercicio 01]
 - Clonado del repositorio y creación de la rama `Sprint_2` desde `Sprint_1`.
 - Descarga y descompresión del dataset de imágenes en `port_log/data/raw/imgs`.
