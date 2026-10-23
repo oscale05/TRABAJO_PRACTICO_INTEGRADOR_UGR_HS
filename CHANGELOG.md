@@ -1,5 +1,10 @@
 # CHANGELOG
 
+[Ejercicio 01]
+- Clonado del repositorio y creación de la rama `Sprint_2` desde `Sprint_1`.
+- Descarga y descompresión del dataset de imágenes en `port_log/data/raw/imgs`.
+- Verificación de los archivos heredados del Sprint 1.
+
 ## [Ejercicio 01] - Inicialización repositorio y estructura de directorios
 - Inicializado repositorio Git en rama Sprint_1
 - Configurado user.email y user.name
