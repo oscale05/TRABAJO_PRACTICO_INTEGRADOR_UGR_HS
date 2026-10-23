@@ -1,5 +1,12 @@
 # CHANGELOG
 
+[Ejercicio 05]
+- Infracciones sin y con imagen asociada.
+- Imágenes sin match en el dataset.
+- Ratio promedio de coincidencia de los matches.
+- Grupo con mayor tasa de match exitoso (plates vs completes).
+- Infracciones en estado PENDIENTE sin imagen asociada.
+
 [Ejercicio 04]
 - Extracción de matrículas con EasyOCR (`extraer_matricula`) sobre las imágenes.
 - Matching alfanumérico contra `port_movements.csv` con umbral de 75% de coincidencia posicional.
