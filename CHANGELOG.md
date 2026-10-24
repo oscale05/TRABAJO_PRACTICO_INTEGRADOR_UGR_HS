@@ -3,6 +3,7 @@
 ## Sprint 3
 
 [Ejercicio 02]
+- Gráficos de `port_log/data/interim/plots` migrados a DVC (`plots.dvc`).
 - Imágenes de `port_log/data/raw/imgs` versionadas con DVC (`imgs.dvc`).
 
 [Ejercicio 01]
