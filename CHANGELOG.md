@@ -2,6 +2,10 @@
 
 ## Sprint 3
 
+[Ejercicio 09]
+- Conclusión integradora de los 3 sprints (problema resuelto, ventajas de la
+  base vectorial, limitaciones y mejoras para producción).
+
 [Ejercicio 08]
 - Función `buscar_buque_por_imagen`: embedding de la imagen, búsqueda en
   ChromaDB y recuperación completa del buque desde la base relacional.
