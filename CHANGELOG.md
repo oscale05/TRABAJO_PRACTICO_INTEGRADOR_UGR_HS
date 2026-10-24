@@ -2,6 +2,11 @@
 
 ## Sprint 3
 
+[Ejercicio 05]
+- Base de datos SQLite `transito_portuario` creada con SQLAlchemy (tablas automáticas).
+- Movimientos del interim poblados con `procesar_fila_csv` + evidencias del CSV procesado.
+- Contados validados por tabla y movimientos sin radar descartados por FK obligatoria.
+
 [Ejercicio 04]
 - Modelos SQLAlchemy `Buque`, `Radar`, `Movimiento` y `Evidencia` (PK, FK, relaciones y `__repr__`).
 - Función `procesar_fila_csv` que mapea una fila del CSV a instancias del modelo.
