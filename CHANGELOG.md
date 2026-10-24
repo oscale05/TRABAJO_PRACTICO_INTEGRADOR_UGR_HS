@@ -2,6 +2,10 @@
 
 ## Sprint 3
 
+[Ejercicio 08]
+- Función `buscar_buque_por_imagen`: embedding de la imagen, búsqueda en
+  ChromaDB y recuperación completa del buque desde la base relacional.
+
 [Ejercicio 07]
 - Base de datos vectorial `buque_vectorial` (ChromaDB + OpenCLIP ViT-B-32) con imágenes `complete` y cobertura de embeddings.
 
