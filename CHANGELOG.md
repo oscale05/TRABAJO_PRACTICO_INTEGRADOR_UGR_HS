@@ -2,6 +2,10 @@
 
 ## Sprint 3
 
+[Ejercicio 06]
+- 6 consultas SQL con SQLAlchemy: top infracciones, sin evidencia, radares activos,
+  reincidentes por período, exceso de velocidad por muelle y cobertura de evidencia.
+
 [Ejercicio 05]
 - Base de datos SQLite `transito_portuario` creada con SQLAlchemy (tablas automáticas).
 - Movimientos del interim poblados con `procesar_fila_csv` + evidencias del CSV procesado.
