@@ -3,3 +3,5 @@ port_log/data/raw/port_log_images.zip
 port_log/data/interim/imgs/
 transito_portuario.db
 buque_vectorial_db/
+
+port_log_images.zip
