@@ -2,6 +2,10 @@
 
 ## Sprint 3
 
+[Ejercicio 04]
+- Modelos SQLAlchemy `Buque`, `Radar`, `Movimiento` y `Evidencia` (PK, FK, relaciones y `__repr__`).
+- Función `procesar_fila_csv` que mapea una fila del CSV a instancias del modelo.
+
 [Ejercicio 03]
 - Diseño del modelo lógico (Buque, Radar, Movimiento, Evidencia) con atributos y cardinalidades.
 
