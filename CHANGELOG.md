@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## Sprint 3
+
+[Ejercicio 01]
+- Creación de la rama `Sprint_3` partiendo de `Sprint_2`.
+- Descarga del dataset de imágenes y separación en `plates/` y `completes/`.
+- Verificación de los 4 datasets heredados (registros y fecha de última modificación).
+- README actualizado al Sprint 3 (objetivo y contexto).
+
+## Sprint 2
+
 [Ejercicio 06]
 - Conclusión sobre datos tabulares vs imágenes en `port_log/reports/conclusion_sprint2.md`.
 
