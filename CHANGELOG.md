@@ -2,6 +2,9 @@
 
 ## Sprint 3
 
+[Ejercicio 07]
+- Base de datos vectorial `buque_vectorial` (ChromaDB + OpenCLIP ViT-B-32) con imágenes `complete` y cobertura de embeddings.
+
 [Ejercicio 06]
 - 6 consultas SQL con SQLAlchemy: top infracciones, sin evidencia, radares activos,
   reincidentes por período, exceso de velocidad por muelle y cobertura de evidencia.
