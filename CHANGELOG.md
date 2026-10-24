@@ -2,6 +2,9 @@
 
 ## Sprint 3
 
+[Ejercicio 03]
+- Diseño del modelo lógico (Buque, Radar, Movimiento, Evidencia) con atributos y cardinalidades.
+
 [Ejercicio 02]
 - Dataset procesado `port_movements_image.csv` versionado con DVC (output principal del pipeline).
 - Gráficos de `port_log/data/interim/plots` migrados a DVC (`plots.dvc`).
