@@ -2,6 +2,9 @@
 
 ## Sprint 3
 
+[Ejercicio 02]
+- Imágenes de `port_log/data/raw/imgs` versionadas con DVC (`imgs.dvc`).
+
 [Ejercicio 01]
 - Creación de la rama `Sprint_3` partiendo de `Sprint_2`.
 - Descarga del dataset de imágenes y separación en `plates/` y `completes/`.
